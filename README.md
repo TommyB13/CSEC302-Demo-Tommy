@@ -57,3 +57,5 @@ https://wordpress.org/support/article/how-to-install-wordpress/
 https://blog.devsense.com/2021/configuring-xampp
 ## Misc
 https://github.com/TAPESH-TEAM/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection
+## Project file (too big for github so I uploaded to Google Drive until I can find a better solution)
+https://drive.google.com/file/d/18jLvkJBJ0a3gkTsH2MabGj7l3g2TWIr8/view?usp=sharing
